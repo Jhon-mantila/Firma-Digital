@@ -1,0 +1,11 @@
+{
+    "name": "vendor/firma",
+    "description": "Description of project firma.",
+    "authors": [
+        {
+            "name": "Casa",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {}
+}
